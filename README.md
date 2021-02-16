@@ -10,11 +10,7 @@ Asides PMing, I try to work on personal projects (mostly the ones that will requ
 - 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on User and Market research and problem validation
 - 💬 Ask me about Product Management, Product strategy and Product design
-- 📫 How to reach me: <br/>
-
-     [Twitter](https://twitter.com/steve_dammy) <br/>
-     [LinkedIn](https://linkedin.com/in/damilola-ajiboye)  <br/>    
-     [Website](https://damilolaa.xyz)<br/>
+- 📫 How to reach me:  [Twitter](https://twitter.com/steve_dammy) [LinkedIn](https://linkedin.com/in/damilola-ajiboye) [Website](https://damilolaa.xyz)
 
 - 😄 Pronouns: Him/He
 

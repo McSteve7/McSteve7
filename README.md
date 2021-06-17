@@ -4,7 +4,7 @@
 
 I enjoy coming up with strategies, talking to users, aligning team members to a product idea and building compelling products.
 
-Asides PMing, I try to work on personal projects (mostly the ones that will require me to write some code), read startup and fundraising news and playing video games.
+Asides PMing, I try to work on personal projects (mostly the ones that will require me to write some code), read startup and fundraising news and play video games.
 
 - 🔭 I’m currently working on an Airbnb idea for remote teams
 - 🌱 I’m currently learning SQL

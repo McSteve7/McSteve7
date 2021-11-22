@@ -1,4 +1,4 @@
-### Hello there 👋🏾
+## Hello there 👋🏾
 
 ✨ I'm a Product Manager passionate about building user-centric products that solve users pain points.
 
